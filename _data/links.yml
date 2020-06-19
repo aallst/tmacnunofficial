@@ -1,34 +1,34 @@
 ---
-- name:      Special Episodes - Q&A, Contest Winners, Etc.
-  shortname: Specials
+- name:      特别集 - Q&A，竞赛作品，Etc.
+  shortname: 特别集
   path:      specials.html
   local:     true
-- name:      Unofficial Transcript Source Index
-  shortname: Sources
-  path:      sources.html
-  local:     true
+# - name:      Unofficial Transcript Source Index
+#   shortname: Sources
+#   path:      sources.html
+#   local:     true
 # - name:      List of Incomplete Transcripts
 #   shortname: Incomplete
 #   path:      incomplete.html
 #   local:     true
-- name:      Site News
-  shortname: News
-  path:      news.html
-  local:     true
-- name:      Community-Maintained Episode Content Warnings
-  shortname: Content Warnings
+# - name:      Site News
+#   shortname: News
+#   path:      news.html
+#   local:     true
+- name:      非官方内容预警（英文）
+  shortname: 内容预警（英）
   path:      https://docs.google.com/document/d/1KLuJa1AaT8m5rzBOvvtzeEWT9piQ715bss4hkbLBXmA/edit
-- name:      Official Transcript Archive
-  shortname: Official Transcripts
+- name:      官方文本
+  shortname: 官方文本
   path:      "https://drive.google.com/open?id=0BzWtYJgwf5A9NU1Vd0pMTG9HcmM"
-- name:      "Snarp/magnus_archives_transcripts"
+- name:      "aallst/tmacnunofficial"
   shortname: GitHub
-  path:      https://github.com/Snarp/magnus_archives_transcripts
-- name:      RSS Feed
-  shortname: RSS
-  path:      feed.xml
-  local:     true
-- name:      EPUB Download
-  shortname: EPUB Download
-  path:      "assets/epub/the_magnus_archives.epub"
-  local:     true
+  path:      https://github.com/aallst/tmacnunofficial
+# - name:      RSS Feed
+#   shortname: RSS
+#   path:      feed.xml
+#   local:     true
+# - name:      EPUB Download
+#   shortname: EPUB Download
+#   path:      "assets/epub/the_magnus_archives.epub"
+#   local:     true
