@@ -1,8 +1,8 @@
 ---
-- name:      特别集 - Q&A，竞赛作品，Etc.
-  shortname: 特别集
-  path:      specials.html
-  local:     true
+# - name:      特别集 - Q&A，竞赛作品，Etc.
+#   shortname: 特别集
+#   path:      specials.html
+#   local:     true
 # - name:      Unofficial Transcript Source Index
 #   shortname: Sources
 #   path:      sources.html
