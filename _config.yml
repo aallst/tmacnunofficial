@@ -36,3 +36,6 @@ collections:
 markdown: kramdown
 kramdown:
   auto_ids: false
+  
+# Google Analytics
+google_analytics: UA-171744521-1
